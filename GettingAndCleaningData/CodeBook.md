@@ -1,69 +1,71 @@
-subject_id : Identifier of the subject from the UCI data set
-activity_id : Identifier of the activity from the UCI data set
-activity : Descriptive name of the activity from the UCI data set
-tBodyAcc_mean__X : Average of tBodyAcc_mean__X for each subject and activity from the UCI data set
-tBodyAcc_mean__Y : Average of tBodyAcc_mean__Y for each subject and activity from the UCI data set
-tBodyAcc_mean__Z : Average of tBodyAcc_mean__Z for each subject and activity from the UCI data set
-tGravityAcc_mean__X : Average of tGravityAcc_mean__X for each subject and activity from the UCI data set
-tGravityAcc_mean__Y : Average of tGravityAcc_mean__Y for each subject and activity from the UCI data set
-tGravityAcc_mean__Z : Average of tGravityAcc_mean__Z for each subject and activity from the UCI data set
-tBodyAccJerk_mean__X : Average of tBodyAccJerk_mean__X for each subject and activity from the UCI data set
-tBodyAccJerk_mean__Y : Average of tBodyAccJerk_mean__Y for each subject and activity from the UCI data set
-tBodyAccJerk_mean__Z : Average of tBodyAccJerk_mean__Z for each subject and activity from the UCI data set
-tBodyGyro_mean__X : Average of tBodyGyro_mean__X for each subject and activity from the UCI data set
-tBodyGyro_mean__Y : Average of tBodyGyro_mean__Y for each subject and activity from the UCI data set
-tBodyGyro_mean__Z : Average of tBodyGyro_mean__Z for each subject and activity from the UCI data set
-tBodyGyroJerk_mean__X : Average of tBodyGyroJerk_mean__X for each subject and activity from the UCI data set
-tBodyGyroJerk_mean__Y : Average of tBodyGyroJerk_mean__Y for each subject and activity from the UCI data set
-tBodyGyroJerk_mean__Z : Average of tBodyGyroJerk_mean__Z for each subject and activity from the UCI data set
-tBodyAccMag_mean_ : Average of tBodyAccMag_mean_ for each subject and activity from the UCI data set
-tGravityAccMag_mean_ : Average of tGravityAccMag_mean_ for each subject and activity from the UCI data set
-tBodyAccJerkMag_mean_ : Average of tBodyAccJerkMag_mean_ for each subject and activity from the UCI data set
-tBodyGyroMag_mean_ : Average of tBodyGyroMag_mean_ for each subject and activity from the UCI data set
-tBodyGyroJerkMag_mean_ : Average of tBodyGyroJerkMag_mean_ for each subject and activity from the UCI data set
-fBodyAcc_mean__X : Average of fBodyAcc_mean__X for each subject and activity from the UCI data set
-fBodyAcc_mean__Y : Average of fBodyAcc_mean__Y for each subject and activity from the UCI data set
-fBodyAcc_mean__Z : Average of fBodyAcc_mean__Z for each subject and activity from the UCI data set
-fBodyAccJerk_mean__X : Average of fBodyAccJerk_mean__X for each subject and activity from the UCI data set
-fBodyAccJerk_mean__Y : Average of fBodyAccJerk_mean__Y for each subject and activity from the UCI data set
-fBodyAccJerk_mean__Z : Average of fBodyAccJerk_mean__Z for each subject and activity from the UCI data set
-fBodyGyro_mean__X : Average of fBodyGyro_mean__X for each subject and activity from the UCI data set
-fBodyGyro_mean__Y : Average of fBodyGyro_mean__Y for each subject and activity from the UCI data set
-fBodyGyro_mean__Z : Average of fBodyGyro_mean__Z for each subject and activity from the UCI data set
-fBodyAccMag_mean_ : Average of fBodyAccMag_mean_ for each subject and activity from the UCI data set
-fBodyBodyAccJerkMag_mean_ : Average of fBodyBodyAccJerkMag_mean_ for each subject and activity from the UCI data set
-fBodyBodyGyroMag_mean_ : Average of fBodyBodyGyroMag_mean_ for each subject and activity from the UCI data set
-fBodyBodyGyroJerkMag_mean_ : Average of fBodyBodyGyroJerkMag_mean_ for each subject and activity from the UCI data set
-tBodyAcc_std__X : Average of tBodyAcc_std__X for each subject and activity from the UCI data set
-tBodyAcc_std__Y : Average of tBodyAcc_std__Y for each subject and activity from the UCI data set
-tBodyAcc_std__Z : Average of tBodyAcc_std__Z for each subject and activity from the UCI data set
-tGravityAcc_std__X : Average of tGravityAcc_std__X for each subject and activity from the UCI data set
-tGravityAcc_std__Y : Average of tGravityAcc_std__Y for each subject and activity from the UCI data set
-tGravityAcc_std__Z : Average of tGravityAcc_std__Z for each subject and activity from the UCI data set
-tBodyAccJerk_std__X : Average of tBodyAccJerk_std__X for each subject and activity from the UCI data set
-tBodyAccJerk_std__Y : Average of tBodyAccJerk_std__Y for each subject and activity from the UCI data set
-tBodyAccJerk_std__Z : Average of tBodyAccJerk_std__Z for each subject and activity from the UCI data set
-tBodyGyro_std__X : Average of tBodyGyro_std__X for each subject and activity from the UCI data set
-tBodyGyro_std__Y : Average of tBodyGyro_std__Y for each subject and activity from the UCI data set
-tBodyGyro_std__Z : Average of tBodyGyro_std__Z for each subject and activity from the UCI data set
-tBodyGyroJerk_std__X : Average of tBodyGyroJerk_std__X for each subject and activity from the UCI data set
-tBodyGyroJerk_std__Y : Average of tBodyGyroJerk_std__Y for each subject and activity from the UCI data set
-tBodyGyroJerk_std__Z : Average of tBodyGyroJerk_std__Z for each subject and activity from the UCI data set
-tBodyAccMag_std_ : Average of tBodyAccMag_std_ for each subject and activity from the UCI data set
-tGravityAccMag_std_ : Average of tGravityAccMag_std_ for each subject and activity from the UCI data set
-tBodyAccJerkMag_std_ : Average of tBodyAccJerkMag_std_ for each subject and activity from the UCI data set
-tBodyGyroMag_std_ : Average of tBodyGyroMag_std_ for each subject and activity from the UCI data set
-tBodyGyroJerkMag_std_ : Average of tBodyGyroJerkMag_std_ for each subject and activity from the UCI data set
-fBodyAcc_std__X : Average of fBodyAcc_std__X for each subject and activity from the UCI data set
-fBodyAcc_std__Y : Average of fBodyAcc_std__Y for each subject and activity from the UCI data set
-fBodyAcc_std__Z : Average of fBodyAcc_std__Z for each subject and activity from the UCI data set
-fBodyAccJerk_std__X : Average of fBodyAccJerk_std__X for each subject and activity from the UCI data set
-fBodyAccJerk_std__Y : Average of fBodyAccJerk_std__Y for each subject and activity from the UCI data set
-fBodyAccJerk_std__Z : Average of fBodyAccJerk_std__Z for each subject and activity from the UCI data set
-fBodyGyro_std__X : Average of fBodyGyro_std__X for each subject and activity from the UCI data set
-fBodyGyro_std__Y : Average of fBodyGyro_std__Y for each subject and activity from the UCI data set
-fBodyGyro_std__Z : Average of fBodyGyro_std__Z for each subject and activity from the UCI data set
-fBodyAccMag_std_ : Average of fBodyAccMag_std_ for each subject and activity from the UCI data set
-fBodyBodyAccJerkMag_std_ : Average of fBodyBodyAccJerkMag_std_ for each subject and activity from the UCI data set
-fBodyBodyGyroMag_std_ : Average of fBodyBodyGyroMag_std_ for each subject and activity from the UCI data set
-fBodyBodyGyroJerkMag_std_ : Average of fBodyBodyGyroJerkMag_std_ for each subject and activity from the UCI data set
+##### Code Book for variables in the data set in outputavgdata.txt
+###### ALSO READ: README.md
+* subject_id : Identifier of the subject from the UCI data set
+* activity_id : Identifier of the activity from the UCI data set
+* activity : Descriptive name of the activity from the UCI data set
+* tBodyAcc_mean__X : Average of tBodyAcc_mean__X for each subject and activity from the UCI data set
+* tBodyAcc_mean__Y : Average of tBodyAcc_mean__Y for each subject and activity from the UCI data set
+* tBodyAcc_mean__Z : Average of tBodyAcc_mean__Z for each subject and activity from the UCI data set
+* tGravityAcc_mean__X : Average of tGravityAcc_mean__X for each subject and activity from the UCI data set
+* tGravityAcc_mean__Y : Average of tGravityAcc_mean__Y for each subject and activity from the UCI data set
+* tGravityAcc_mean__Z : Average of tGravityAcc_mean__Z for each subject and activity from the UCI data set
+* tBodyAccJerk_mean__X : Average of tBodyAccJerk_mean__X for each subject and activity from the UCI data set
+* tBodyAccJerk_mean__Y : Average of tBodyAccJerk_mean__Y for each subject and activity from the UCI data set
+* tBodyAccJerk_mean__Z : Average of tBodyAccJerk_mean__Z for each subject and activity from the UCI data set
+* tBodyGyro_mean__X : Average of tBodyGyro_mean__X for each subject and activity from the UCI data set
+* tBodyGyro_mean__Y : Average of tBodyGyro_mean__Y for each subject and activity from the UCI data set
+* tBodyGyro_mean__Z : Average of tBodyGyro_mean__Z for each subject and activity from the UCI data set
+* tBodyGyroJerk_mean__X : Average of tBodyGyroJerk_mean__X for each subject and activity from the UCI data set
+* tBodyGyroJerk_mean__Y : Average of tBodyGyroJerk_mean__Y for each subject and activity from the UCI data set
+* tBodyGyroJerk_mean__Z : Average of tBodyGyroJerk_mean__Z for each subject and activity from the UCI data set
+* tBodyAccMag_mean_ : Average of tBodyAccMag_mean_ for each subject and activity from the UCI data set
+* tGravityAccMag_mean_ : Average of tGravityAccMag_mean_ for each subject and activity from the UCI data set
+* tBodyAccJerkMag_mean_ : Average of tBodyAccJerkMag_mean_ for each subject and activity from the UCI data set
+* tBodyGyroMag_mean_ : Average of tBodyGyroMag_mean_ for each subject and activity from the UCI data set
+* tBodyGyroJerkMag_mean_ : Average of tBodyGyroJerkMag_mean_ for each subject and activity from the UCI data set
+* fBodyAcc_mean__X : Average of fBodyAcc_mean__X for each subject and activity from the UCI data set
+* fBodyAcc_mean__Y : Average of fBodyAcc_mean__Y for each subject and activity from the UCI data set
+* fBodyAcc_mean__Z : Average of fBodyAcc_mean__Z for each subject and activity from the UCI data set
+* fBodyAccJerk_mean__X : Average of fBodyAccJerk_mean__X for each subject and activity from the UCI data set
+* fBodyAccJerk_mean__Y : Average of fBodyAccJerk_mean__Y for each subject and activity from the UCI data set
+* fBodyAccJerk_mean__Z : Average of fBodyAccJerk_mean__Z for each subject and activity from the UCI data set
+* fBodyGyro_mean__X : Average of fBodyGyro_mean__X for each subject and activity from the UCI data set
+* fBodyGyro_mean__Y : Average of fBodyGyro_mean__Y for each subject and activity from the UCI data set
+* fBodyGyro_mean__Z : Average of fBodyGyro_mean__Z for each subject and activity from the UCI data set
+* fBodyAccMag_mean_ : Average of fBodyAccMag_mean_ for each subject and activity from the UCI data set
+* fBodyBodyAccJerkMag_mean_ : Average of fBodyBodyAccJerkMag_mean_ for each subject and activity from the UCI data set
+* fBodyBodyGyroMag_mean_ : Average of fBodyBodyGyroMag_mean_ for each subject and activity from the UCI data set
+* fBodyBodyGyroJerkMag_mean_ : Average of fBodyBodyGyroJerkMag_mean_ for each subject and activity from the UCI data set
+* tBodyAcc_std__X : Average of tBodyAcc_std__X for each subject and activity from the UCI data set
+* tBodyAcc_std__Y : Average of tBodyAcc_std__Y for each subject and activity from the UCI data set
+* tBodyAcc_std__Z : Average of tBodyAcc_std__Z for each subject and activity from the UCI data set
+* tGravityAcc_std__X : Average of tGravityAcc_std__X for each subject and activity from the UCI data set
+* tGravityAcc_std__Y : Average of tGravityAcc_std__Y for each subject and activity from the UCI data set
+* tGravityAcc_std__Z : Average of tGravityAcc_std__Z for each subject and activity from the UCI data set
+* tBodyAccJerk_std__X : Average of tBodyAccJerk_std__X for each subject and activity from the UCI data set
+* tBodyAccJerk_std__Y : Average of tBodyAccJerk_std__Y for each subject and activity from the UCI data set
+* tBodyAccJerk_std__Z : Average of tBodyAccJerk_std__Z for each subject and activity from the UCI data set
+* tBodyGyro_std__X : Average of tBodyGyro_std__X for each subject and activity from the UCI data set
+* tBodyGyro_std__Y : Average of tBodyGyro_std__Y for each subject and activity from the UCI data set
+* tBodyGyro_std__Z : Average of tBodyGyro_std__Z for each subject and activity from the UCI data set
+* tBodyGyroJerk_std__X : Average of tBodyGyroJerk_std__X for each subject and activity from the UCI data set
+* tBodyGyroJerk_std__Y : Average of tBodyGyroJerk_std__Y for each subject and activity from the UCI data set
+* tBodyGyroJerk_std__Z : Average of tBodyGyroJerk_std__Z for each subject and activity from the UCI data set
+* tBodyAccMag_std_ : Average of tBodyAccMag_std_ for each subject and activity from the UCI data set
+* tGravityAccMag_std_ : Average of tGravityAccMag_std_ for each subject and activity from the UCI data set
+* tBodyAccJerkMag_std_ : Average of tBodyAccJerkMag_std_ for each subject and activity from the UCI data set
+* tBodyGyroMag_std_ : Average of tBodyGyroMag_std_ for each subject and activity from the UCI data set
+* tBodyGyroJerkMag_std_ : Average of tBodyGyroJerkMag_std_ for each subject and activity from the UCI data set
+* fBodyAcc_std__X : Average of fBodyAcc_std__X for each subject and activity from the UCI data set
+* fBodyAcc_std__Y : Average of fBodyAcc_std__Y for each subject and activity from the UCI data set
+* fBodyAcc_std__Z : Average of fBodyAcc_std__Z for each subject and activity from the UCI data set
+* fBodyAccJerk_std__X : Average of fBodyAccJerk_std__X for each subject and activity from the UCI data set
+* fBodyAccJerk_std__Y : Average of fBodyAccJerk_std__Y for each subject and activity from the UCI data set
+* fBodyAccJerk_std__Z : Average of fBodyAccJerk_std__Z for each subject and activity from the UCI data set
+* fBodyGyro_std__X : Average of fBodyGyro_std__X for each subject and activity from the UCI data set
+* fBodyGyro_std__Y : Average of fBodyGyro_std__Y for each subject and activity from the UCI data set
+* fBodyGyro_std__Z : Average of fBodyGyro_std__Z for each subject and activity from the UCI data set
+* fBodyAccMag_std_ : Average of fBodyAccMag_std_ for each subject and activity from the UCI data set
+* fBodyBodyAccJerkMag_std_ : Average of fBodyBodyAccJerkMag_std_ for each subject and activity from the UCI data set
+* fBodyBodyGyroMag_std_ : Average of fBodyBodyGyroMag_std_ for each subject and activity from the UCI data set
+* fBodyBodyGyroJerkMag_std_ : Average of fBodyBodyGyroJerkMag_std_ for each subject and activity from the UCI data set

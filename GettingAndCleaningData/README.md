@@ -1,6 +1,6 @@
-#####################################################################################################
 ## SCRIPT run_analysis.R
-## ALSO READ: CodeBook.md, README.md
+Created for tidying UCI HAR data, as part of course project for Getting and Cleaning data
+#### ALSO READ: CodeBook.md, README.md
 ## Following are the requirements for this script, once it gets the UCI HAR data set.
 ## 1. Merges the training and the test sets to create one data set.
 ## 2. Extracts only the measurements on the mean and standard deviation for each measurement. 

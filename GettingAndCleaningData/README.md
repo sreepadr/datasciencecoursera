@@ -1,5 +1,5 @@
 ###### SCRIPT run_analysis.R
-Created for tidying UCI HAR data, as part of course project for Getting and Cleaning data
+Created for tidying UCI HAR data, as part of course project for Getting and Cleaning data.
 ###### ALSO READ: CodeBook.md
 Following are the requirements for this script, once it gets the UCI HAR data set.
 
